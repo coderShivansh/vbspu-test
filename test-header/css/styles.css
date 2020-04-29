@@ -1,0 +1,70 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: deeppink;
+    /**00ffff mst tha but logo ke sath jana pada**/
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img {
+    background: url('../images/vbspu-logo.png') no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px -40px;
+}
+
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-brand h1 {
+    /* vbspu name */
+    font-family: 'Lora', serif;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    font-size: 30px;
+    
+}
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.navbar-brand p {
+    margin-left:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
